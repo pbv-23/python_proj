@@ -1,9 +1,0 @@
-requests
-pandas
-matplotlib
-scikit-learn
-flaskrequests
-pandas
-matplotlib
-scikit-learn
-flask
